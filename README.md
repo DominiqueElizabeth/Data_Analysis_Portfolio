@@ -11,7 +11,7 @@ Olá! Meu nome é **Dominique Elizabeth**, e este repositório reúne meus proje
 🎓 Estudante de Engenharia da Computação  
 💻 Entusiasta em Ciência de Dados e Tecnologia  
 📊 Apaixonada por transformar dados em decisões  
-🚀 Buscando oportunidades como estagiária ou analista júnior em Data Science  
+🚀 Buscando oportunidades como estagiária 
 
 ---
 
@@ -32,9 +32,9 @@ Olá! Meu nome é **Dominique Elizabeth**, e este repositório reúne meus proje
 
 | Projeto | Descrição | Link |
 |--------|-----------|------|
-| 📊 Projeto Integrado SQL Oracle | Análise com foco em banco de dados e extração via SQL | [🔗 Colab (em breve)](#) |
-| 📈 Alura Data Science: Análise Exploratória | Explorando dados com gráficos, limpeza e insights | [🔗 Colab (em breve)](#) |
-| 📉 Data Visualization Python | Visualização de dados com Matplotlib e Seaborn | [🔗 Colab (em breve)](#) |
+| 📊 Projeto Integrado SQL Oracle | Análise com foco em banco de dados e extração via SQL | [🔗 Colab (https://github.com/DominiqueElizabeth/DataVisualizationPython)](#)|
+| 📈 Alura Data Science: Análise Exploratória | Explorando dados com gráficos, limpeza e insights | [🔗 Colab (https://github.com/DominiqueElizabeth/alura-data-science-analise-exploratoria)](#) |
+| 📉 Data Visualization Python | Visualização de dados com Matplotlib e Seaborn | [🔗 Colab (https://github.com/DominiqueElizabeth/DataVisualizationPython)](#) |
 
 > ✨ Atualizações frequentes! Mais projetos em breve.
 
