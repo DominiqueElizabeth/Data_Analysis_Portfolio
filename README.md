@@ -31,10 +31,10 @@ Olá! Meu nome é **Dominique Elizabeth**, e este repositório reúne meus proje
 ## 📁 Projetos
 
 | Projeto | Descrição | Link |
-|--------|-----------|------|
-| 📊 Projeto Integrado SQL Oracle | Análise com foco em banco de dados e extração via SQL | [🔗 Colab (https://github.com/DominiqueElizabeth/DataVisualizationPython)](#)|
-| 📈 Alura Data Science: Análise Exploratória | Explorando dados com gráficos, limpeza e insights | [🔗(https://github.com/DominiqueElizabeth/alura-data-science-analise-exploratoria](https://github.com/DominiqueElizabeth/Projeto-Integrado-SQL-Oracle/blob/main/Primeiro)](#) |
-| 📉 Data Visualization Python | Visualização de dados com Matplotlib e Seaborn | [🔗 Colab (https://github.com/DominiqueElizabeth/DataVisualizationPython)](#) |
+|--------|----------------------|------|
+| 📊 Projeto Integrado SQL Oracle | Análise com foco em banco de dados e extração via SQL |🔗(https://github.com/DominiqueElizabeth/Projeto-Integrado-SQL-Oracle/blob/main/Primeiro)|
+| 📈 Alura Data Science: Análise Exploratória | Explorando dados com gráficos, limpeza e insights |🔗(https://github.com/DominiqueElizabeth/alura-data-science-analise-exploratoria]|
+| 📉 Data Visualization Python | Visualização de dados com Matplotlib e Seaborn | 🔗(https://github.com/DominiqueElizabeth/DataVisualizationPython/blob/main/Data_Visualization_Alura.ipynb) |
 
 > ✨ Atualizações frequentes! Mais projetos em breve.
 
@@ -43,8 +43,6 @@ Olá! Meu nome é **Dominique Elizabeth**, e este repositório reúne meus proje
 ## 📫 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dominiqueelizabethlimagil)
-- 📧 dominique2201@gmail.com
-- 💻 [Meu GitHub](https://github.com/DominiqueElizabeth)
 
 ---
 
