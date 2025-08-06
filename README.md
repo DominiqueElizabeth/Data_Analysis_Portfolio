@@ -35,6 +35,7 @@ Olá! Meu nome é **Dominique Elizabeth**, e este repositório reúne meus proje
 | 📊 Projeto Integrado SQL Oracle | Análise com foco em banco de dados e extração via SQL |🔗(https://github.com/DominiqueElizabeth/Projeto-Integrado-SQL-Oracle/blob/main/Primeiro)|
 | 📈 Alura Data Science: Análise Exploratória | Explorando dados com gráficos, limpeza e insights |🔗(https://github.com/DominiqueElizabeth/alura-data-science-analise-exploratoria]|
 | 📉 Data Visualization Python | Visualização de dados com Matplotlib e Seaborn | 🔗(https://github.com/DominiqueElizabeth/DataVisualizationPython/blob/main/Data_Visualization_Alura.ipynb) |
+| 🔍 Imersão em Dados com Python (Alura) | Análise exploratória com dados reais, visualizações e insights práticos | [🔗 Acessar Notebook](https://colab.research.google.com/drive/1axf6kPieuxQcPJ1BCkZydUHChlGHdo9K?usp=drive_link) |
 
 > ✨ Atualizações frequentes! Mais projetos em breve.
 
