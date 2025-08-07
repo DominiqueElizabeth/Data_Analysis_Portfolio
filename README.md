@@ -23,7 +23,6 @@ Olá! Meu nome é **Dominique Elizabeth**, e este repositório reúne meus proje
 - `Matplotlib`
 - `Seaborn`
 - `Google Colab`
-- `Jupyter Notebooks`
 - `SQL` e `Oracle` (básico)
 
 ---
